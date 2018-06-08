@@ -22,7 +22,7 @@ var car1 = {
 	color: "Black",
 	year: "2010",
 	fullStats: function(){
-		return "Make: " + this.make + ", Year: " + this.year + ", Color: " this.color + ", Milage: " + this.milage;
+		return "Make: " + this.make + ", Year: " + this.year + ", Color: " + this.color + ", Milage: " + this.milage;
 	}
 };
 
@@ -32,7 +32,7 @@ var car2 = {
 	color: "Blue",
 	year: "2008",
 	fullStats: function(){
-		return "Make: " + this.make + ", Year: " + this.year + ", Color: " this.color + ", Milage: " + this.milage;
+		return "Make: " + this.make + ", Year: " + this.year + ", Color: " + this.color + ", Milage: " + this.milage;
 	}
 };
 
@@ -42,7 +42,7 @@ var car3 = {
 	color: "Red",
 	year: "2006",
 	fullStats: function(){
-		return "Make: " + this.make + ", Year: " + this.year + ", Color: " this.color + ", Milage: " + this.milage;
+		return "Make: " + this.make + ", Year: " + this.year + ", Color: " + this.color + ", Milage: " + this.milage;
 	}
 };
 
