@@ -24,7 +24,7 @@ var car1 = {
 	fullStats: function(){
 		return "Make: " + this.make + ", Year: " + this.year + ", Color: " this.color + ", Milage: " + this.milage;
 	}
-}
+};
 
 var car2 = {
 	make: "Ford",
@@ -34,7 +34,7 @@ var car2 = {
 	fullStats: function(){
 		return "Make: " + this.make + ", Year: " + this.year + ", Color: " this.color + ", Milage: " + this.milage;
 	}
-}
+};
 
 var car3 = {
 	make: "Nissan",
@@ -44,7 +44,7 @@ var car3 = {
 	fullStats: function(){
 		return "Make: " + this.make + ", Year: " + this.year + ", Color: " this.color + ", Milage: " + this.milage;
 	}
-}
+};
 
 function pickCar(carNum){
 	var chosenCar;
