@@ -58,5 +58,5 @@ function pickCar(carNum){
 	else if(carNum == 3){
 		chosenCar = car3;
 	}
-	document.GetElementById("carList").innerHTML = chosenCar;
+	document.getElementById("carList").innerHTML = "<li>" + chosenCar.make + "</li> <li>" + chosenCar.year + "</li> <li>" + chosenCar.color + "</li> <li>" + chosenCar.milage +"</li>";
 }
