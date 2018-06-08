@@ -1,0 +1,14 @@
+body {
+	background-color:grey;
+	text-align: center;
+	}
+h1 {
+	color: pink;
+	border: 1.5px solid black;
+	padding: 10px;
+}
+button{
+	color: purple;
+	height: 30px;
+	width: 150px;
+}
