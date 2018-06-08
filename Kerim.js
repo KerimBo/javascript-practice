@@ -16,7 +16,6 @@ function increment(){
 }
 
 //using objects
-/*
 var car1 = {
 	make: "Honda",
 	milage: "56000",
@@ -61,4 +60,3 @@ function pickCar(carNum){
 	}
 	document.GetElementById("carList").innerHTML = chosenCar;
 }
-*/
