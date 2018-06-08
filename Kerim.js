@@ -46,6 +46,7 @@ var car3 = {
 	}
 };
 
+/*
 function pickCar(carNum){
 	var chosenCar;
 	if(carNum == 1){
@@ -59,3 +60,4 @@ function pickCar(carNum){
 	}
 	document.GetElementById("carList").innerHTML = chosenCar;
 }
+*/
