@@ -48,11 +48,14 @@ var car3 = {
 
 function pickCar(carNum){
 	var chosenCar;
-	if(carNum == 1)
+	if(carNum == 1){
 		chosenCar = car1;
-	else if(carNum == 2)
+	}
+	else if(carNum == 2){
 		chosenCar = car2;
-	else if(carNum == 3)
+	}
+	else if(carNum == 3){
 		chosenCar = car3;
+	}
 	document.GetElementById("carList").innerHTML = chosenCar;
 }
