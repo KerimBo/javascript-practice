@@ -16,6 +16,7 @@ function increment(){
 }
 
 //using objects
+/*
 var car1 = {
 	make: "Honda",
 	milage: "56000",
@@ -46,7 +47,7 @@ var car3 = {
 	}
 };
 
-/*
+
 function pickCar(carNum){
 	var chosenCar;
 	if(carNum == 1){
